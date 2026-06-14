@@ -2,7 +2,7 @@
 
 A clean and functional implementation demonstrating how to fetch and display data from an external API, focusing on asynchronous operations and dynamic DOM updates.
 
-![Project Preview](Screenshot%2026-06-14%154743.png)
+![Project Preview](Screenshot%202026-06-14%20154743.png)
 
 ## ✨ Features
 * **Live Data Fetching:** Seamlessly integrates with external APIs to retrieve real-time data.
