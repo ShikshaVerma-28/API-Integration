@@ -20,3 +20,11 @@ A clean and functional implementation demonstrating how to fetch and display dat
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ShikshaVerma-28/API-Integration.git](https://github.com/ShikshaVerma-28/API-Integration.git)
+   ```
+
+2. **Navigate to the directory:**
+ ```bash
+   cd API-Integration
+ ```
+3. **Run the project:**
+    Open index.html directly in your browser.
